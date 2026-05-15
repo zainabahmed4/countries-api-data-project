@@ -1,0 +1,82 @@
+{
+    "0":{
+        "Name":"United States",
+        "Native Name":"United States of America",
+        "Capital(s)":"Washington, D.C.",
+        "Population":340110988,
+        "Languages":"English",
+        "Region":"Americas"
+    },
+    "1":{
+        "Name":"Canada",
+        "Native Name":"Canada",
+        "Capital(s)":"Ottawa",
+        "Population":41651653,
+        "Languages":"English",
+        "Region":"Americas"
+    },
+    "2":{
+        "Name":"Pakistan",
+        "Native Name":"Islamic Republic of Pakistan",
+        "Capital(s)":"Islamabad",
+        "Population":241499431,
+        "Languages":"English",
+        "Region":"Asia"
+    },
+    "3":{
+        "Name":"India",
+        "Native Name":"Republic of India",
+        "Capital(s)":"New Delhi",
+        "Population":1417492000,
+        "Languages":"English",
+        "Region":"Asia"
+    },
+    "4":{
+        "Name":"North Korea",
+        "Native Name":"\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d",
+        "Capital(s)":"Pyongyang",
+        "Population":25950000,
+        "Languages":"Korean",
+        "Region":"Asia"
+    },
+    "5":{
+        "Name":"China",
+        "Native Name":"\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+        "Capital(s)":"Beijing",
+        "Population":1408280000,
+        "Languages":"Chinese",
+        "Region":"Asia"
+    },
+    "6":{
+        "Name":"Japan",
+        "Native Name":"\u65e5\u672c",
+        "Capital(s)":"Tokyo",
+        "Population":123210000,
+        "Languages":"Japanese",
+        "Region":"Asia"
+    },
+    "7":{
+        "Name":"Switzerland",
+        "Native Name":"Conf\u00e9d\u00e9ration suisse",
+        "Capital(s)":"Bern",
+        "Population":9082848,
+        "Languages":"French",
+        "Region":"Europe"
+    },
+    "8":{
+        "Name":"Italy",
+        "Native Name":"Repubblica italiana",
+        "Capital(s)":"Rome",
+        "Population":58927633,
+        "Languages":"Italian",
+        "Region":"Europe"
+    },
+    "9":{
+        "Name":"Norway",
+        "Native Name":"Kongeriket Noreg",
+        "Capital(s)":"Oslo",
+        "Population":5606944,
+        "Languages":"Norwegian Nynorsk",
+        "Region":"Europe"
+    }
+}
